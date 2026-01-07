@@ -73,7 +73,7 @@ mlprojecthindi-main/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Arnab-Ghosh7/Model-to-Production-ML
    cd mlprojecthindi-main
    ```
 
